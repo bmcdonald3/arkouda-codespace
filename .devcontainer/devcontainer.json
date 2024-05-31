@@ -1,6 +1,6 @@
 {
     "image": "bearsrus/arkouda-full-stack:v2024.04.19",
-    "postAttachCommand": "/opt/arkouda/start-smp-arkouda-full-stack-notebook.sh"
+    "postAttachCommand": "bash startup.sh",
     "customizations": {
         "codespaces": {
             "openFiles": [
