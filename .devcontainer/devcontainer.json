@@ -1,0 +1,20 @@
+{
+  "image": "bearsrus/arkouda-full-stack:v2024.04.19",
+  "containerEnv": {
+   
+  },
+  "features": {},
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "README.md"
+      ]
+    },
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter"
+      ],
+      "settings": {}
+    }
+  }
+}
