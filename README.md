@@ -1,6 +1,6 @@
 # Introduction to Arkouda
 
-[Arkouda](https://bears-r-us.github.io/arkouda/) is a framework for interactive Data Analytics at supercomputing scale. This repository contains code from the [ChapelCon 2024](https://chapel-lang.org/ChapelCon24.html) Chapel tutorial.
+[Arkouda](https://bears-r-us.github.io/arkouda/) is a framework for interactive Data Analytics at supercomputing scale, but is highly extensible, so can be thought of as a framework for running any parallel, distributed code from Python that you can dream up! This repository contains code from the [ChapelCon 2024](https://chapel-lang.org/ChapelCon24.html) Chapel tutorial.
 
 To get started with this template, you can either use [GitHub Codespaces](#using-a-codespace) or your own machine (via [Docker](#using-docker) or by [building from source](#building-arkouda-from-source-on-your-machine)).
 
