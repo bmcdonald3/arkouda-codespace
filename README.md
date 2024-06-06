@@ -7,7 +7,7 @@ To get started with this template, you can either use [GitHub Codespaces](#using
 In this repository, there are some configuration files, some data files, and some Jupyter notebooks containing a sample Arkouda workflow for the tutorial. If following along in this Codespace, you can start with the `clean_tutorial_nyc_taxi_parquet.ipynb` to have a blank slate or `tutorial_nyc_taxi_parquet.ipynb` to see the same notebook with the code already executed to just inspect the output.
 
 ## Learning Resources
-To learn about Chapel beyond what's presented in the slides, consider the
+To learn about Arkouda beyond what's presented in the slides, consider the
  following resources:
 
 * [Arkouda repository](https://github.com/bears-r-us/arkouda)
@@ -34,7 +34,7 @@ Install Docker (see the [Installing Docker](#installing-docker) section below fo
 
 ## Building Arkouda from Source on Your Machine
 
-Please follow the instructions on the [Arkouda Build](https://bears-r-us.github.io/arkouda/setup/BUILD.html) page to build the Arkouda server and install the Python frontent dependencies.
+Please follow the instructions on the [Arkouda Build](https://bears-r-us.github.io/arkouda/setup/BUILD.html) page to build the Arkouda server and install the Python frontend dependencies.
 
 When built from source, you will have to manually launch the Arkouda server on your machine:
 ```bash
