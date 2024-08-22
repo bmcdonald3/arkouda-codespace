@@ -41,7 +41,7 @@ In the terminal at the bottom of the VisualStudio window, clicking the `PORTS` t
 Once you are seeing the Jupyter server screen, you can open the `clean_tutorial_nyc_taxi_parquet.ipynb` file and start running your Jupyter notebook!
 
 ## Learning Resources
-To learn about Arkouda beyond what's presented in the slides, consider the
+To learn more about Arkouda and take your applications to a supercomputer, consider the
  following resources:
 
 * [Arkouda repository](https://github.com/bears-r-us/arkouda)
