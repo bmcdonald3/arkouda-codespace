@@ -4,6 +4,8 @@
 
 This repository contains code from the [ChapelCon 2024](https://chapel-lang.org/ChapelCon24.html) Chapel tutorial, however, anyone can work out of this Codespace to get familiar with Arkouda! It includes configuration files, data files, and Jupyter notebooks demonstrating a sample Arkouda workflow related to the tutorial.
 
+If you'd like to follow along with the recorded tutorial from ChapelCon, please [click here](https://www.youtube.com/watch?v=__pXYW359Ws).
+
 ## Who is this tutorial for? What can I learn from this tutorial?
 
 This tutorial is designed for individuals interested in exploring the capabilities of Arkouda, a framework for interactive data analytics at supercomputing scale while working with a real-world data set. The tutorial is particularly suitable for:
